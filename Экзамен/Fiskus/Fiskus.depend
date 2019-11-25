@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1560519940 source:d:\code blocks\программироание и структуры данных\Ёкзамен\fiskus\dane.cpp
+	<iostream>
+	<string>
+	"kontener.h"
+	"dane.h"
+
+1560519890 d:\code blocks\программироание и структуры данных\Ёкзамен\fiskus\kontener.h
+	<iostream>
+	<string>
+	"dane.h"
+
+1560518382 d:\code blocks\программироание и структуры данных\Ёкзамен\fiskus\dane.h
+	<iostream>
+	<string>
+	"kontener.h"
+
+1560519671 source:d:\code blocks\программироание и структуры данных\Ёкзамен\fiskus\kontener.cpp
+	<iostream>
+	"kontener.h"
+	"dane.h"
+
+1560521237 source:d:\code blocks\программироание и структуры данных\Ёкзамен\fiskus\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"kontener.h"
+	"dane.h"
+

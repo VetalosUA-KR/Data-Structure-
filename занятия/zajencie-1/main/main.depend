@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1550492096 source:z:\vetal\main\main.cpp
+	<iostream>
+	"bib.h"
+
+1550492223 z:\vetal\main\bib.h
+	<string>
+
+1550492145 source:z:\vetal\main\bib.cpp
+	<iostream>
+	"bib.h"
+
+1551112887 source:d:\code blocks\программироание и структуры данных\zajencie-1\main\main.cpp
+	<iostream>
+	"bib_osoba.h"
+	"bib_grupa.h"
+
+1551107524 d:\code blocks\программироание и структуры данных\zajencie-1\main\bib.h
+	<string>
+
+1551109065 source:d:\code blocks\программироание и структуры данных\zajencie-1\main\bib_grupa.cpp
+	"bib_grupa.h"
+	"bib_osoba.h"
+
+1551112810 source:d:\code blocks\программироание и структуры данных\zajencie-1\main\bib_osoba.cpp
+	<iostream>
+	"bib_osoba.h"
+
+1551112941 d:\code blocks\программироание и структуры данных\zajencie-1\main\bib_osoba.h
+	<string>
+
+1551109065 d:\code blocks\программироание и структуры данных\zajencie-1\main\bib_grupa.h
+

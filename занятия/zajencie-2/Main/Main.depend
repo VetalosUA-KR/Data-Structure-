@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1551096953 source:z:\z2\main\main.cpp
+	<iostream>
+	"bib_ulamek.h"
+
+1551096960 z:\z2\main\bib_ulamek.h
+
+1551096952 source:z:\z2\main\bib_ulamek.cpp
+	"bib_ulamek.h"
+	<iostream>
+	<stdexcept>
+
+1551688687 source:d:\code blocks\программироание и структуры данных\zajencie-2\main\bib_ulamek.cpp
+	"bib_ulamek.h"
+	<iostream>
+	<stdexcept>
+
+1551715287 d:\code blocks\программироание и структуры данных\zajencie-2\main\bib_ulamek.h
+
+1551715871 source:d:\code blocks\программироание и структуры данных\zajencie-2\main\main.cpp
+	<iostream>
+	"bib_ulamek.h"
+	"bib_geometria.h"
+	"bib_macierza.h"
+
+1551715932 d:\code blocks\программироание и структуры данных\zajencie-2\main\bib_geometria.h
+
+1551707534 source:d:\code blocks\программироание и структуры данных\zajencie-2\main\bib_geometria.cpp
+	<iostream>
+	"bib_geometria.h"
+
+1551707730 source:d:\code blocks\программироание и структуры данных\zajencie-2\main\bib_macierza.cpp
+	<iostream>
+	"bib_macierza.h"
+
+1551707389 d:\code blocks\программироание и структуры данных\zajencie-2\main\bib_macierza.h
+

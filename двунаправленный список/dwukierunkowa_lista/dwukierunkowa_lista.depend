@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557433544 source:d:\code blocks\программироание и структуры данных\двунаправленный список\dwukierunkowa_lista\main.cpp
+	<iostream>
+	"dwukierunkowa_lista.h"
+
+1557433366 d:\code blocks\программироание и структуры данных\двунаправленный список\dwukierunkowa_lista\dwukierunkowa_lista.h
+
+1557433647 source:d:\code blocks\программироание и структуры данных\двунаправленный список\dwukierunkowa_lista\dwukierunkowa_lista.cpp
+	<iostream>
+	"dwukierunkowa_lista.h"
+

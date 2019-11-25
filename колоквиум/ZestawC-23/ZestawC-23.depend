@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1557587656 source:d:\code blocks\программироание и структуры данных\двунаправленный список\zestawc-23\main.cpp
+	<iostream>
+	"lista_laczona.h"
+
+1557587729 d:\code blocks\программироание и структуры данных\двунаправленный список\zestawc-23\lista_laczona.h
+
+1557587617 source:d:\code blocks\программироание и структуры данных\двунаправленный список\zestawc-23\lista_laczona.cpp
+	<iostream>
+	"lista_laczona.h"
+
+1557587798 source:d:\code blocks\программироание и структуры данных\колоквиум\zestawc-23\lista_laczona.cpp
+	<iostream>
+	"lista_laczona.h"
+
+1557587729 d:\code blocks\программироание и структуры данных\колоквиум\zestawc-23\lista_laczona.h
+
+1557588635 source:d:\code blocks\программироание и структуры данных\колоквиум\zestawc-23\main.cpp
+	<iostream>
+	"lista_laczona.h"
+

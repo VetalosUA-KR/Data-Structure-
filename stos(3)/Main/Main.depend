@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1551701790 source:c:\users\student\desktop\stos\main\main.cpp
+	<iostream>
+	"stosy-tab.h"
+
+1551702341 c:\users\student\desktop\stos\main\stosy-tab.h
+
+1551702430 source:c:\users\student\desktop\stos\main\stosy-tab.cpp
+	<stdexcept>
+	"stosy-tab.h"
+	<iostream>
+
+1551670426 source:d:\code blocks\программироание и структуры данных\stos(3)\main\main.cpp
+	<iostream>
+	"stosy-tab.h"
+
+1552213341 d:\code blocks\программироание и структуры данных\stos(3)\main\stosy-tab.h
+
+1552213411 source:d:\code blocks\программироание и структуры данных\stos(3)\main\stosy-tab.cpp
+	<stdexcept>
+	"stosy-tab.h"
+	<iostream>
+

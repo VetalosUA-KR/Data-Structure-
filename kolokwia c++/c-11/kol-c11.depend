@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1494281460 source:c:\users\as\desktop\nowy folder (2)\kol-c11\main.cpp
+	<iostream>
+	"sznur.h"
+
+1494462036 source:c:\users\as\desktop\nowy folder (2)\kol-c11\sznur.cpp
+	"sznur.h"
+	<iostream>
+	<stdexcept>
+
+1494077085 c:\users\as\desktop\nowy folder (2)\kol-c11\sznur.h
+	<iostream>
+

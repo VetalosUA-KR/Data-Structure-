@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554123026 source:d:\code blocks\программироание и структуры данных\занятия\zajencie-7\main\main.cpp
+	<iostream>
+	"list_sort.h"
+
+1554122634 d:\code blocks\программироание и структуры данных\занятия\zajencie-7\main\list_sort.h
+
+1554123149 source:d:\code blocks\программироание и структуры данных\занятия\zajencie-7\main\list_sort.cpp
+	<iostream>
+	"list_sort.h"
+

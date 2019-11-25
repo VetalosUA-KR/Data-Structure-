@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1558972377 source:d:\code blocks\программироание и структуры данных\занятия\nip\bib_nip.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"bib_nip.h"
+	<cstdlib>
+
+1558971602 d:\code blocks\программироание и структуры данных\занятия\nip\bib_nip.h
+	<iostream>
+	<string>
+
+1558959749 d:\code blocks\программироание и структуры данных\занятия\nip\lista_nip.h
+	"bib_nip.h"
+
+1559074293 source:d:\code blocks\программироание и структуры данных\занятия\nip\lista_nip.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"lista_nip.h"
+	<cstdlib>
+
+1558972079 source:d:\code blocks\программироание и структуры данных\занятия\nip\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"bib_nip.h"
+	"lista_nip.h"
+	<cstdlib>
+

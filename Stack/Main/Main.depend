@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1552898375 source:d:\code blocks\программироание и структуры данных\stack\main\main.cpp
+	<iostream>
+	"unbounded_stack.h"
+
+1552817313 d:\code blocks\программироание и структуры данных\stack\main\unbounded_stack.h
+
+1552898517 source:d:\code blocks\программироание и структуры данных\stack\main\stack_test.cpp
+	<iostream>
+	"unbounded_stack.h"
+

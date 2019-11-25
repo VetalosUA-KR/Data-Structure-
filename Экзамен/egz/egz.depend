@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1560708950 source:d:\code blocks\программироание и структуры данных\Ёкзамен\egz\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"kontener.h"
+	"osoba.h"
+
+1560708732 source:d:\code blocks\программироание и структуры данных\Ёкзамен\egz\osoba.cpp
+	<iostream>
+	"Osoba.h"
+
+1560708811 d:\code blocks\программироание и структуры данных\Ёкзамен\egz\osoba.h
+	<string>
+
+1560709061 d:\code blocks\программироание и структуры данных\Ёкзамен\egz\kontener.h
+	<iostream>
+

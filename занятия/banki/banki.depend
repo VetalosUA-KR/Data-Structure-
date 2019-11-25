@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1558942758 source:d:\code blocks\программироание и структуры данных\занятия\banki\bib_iban.cpp
+	<iostream>
+	<string>
+	"bib_IBAN.h"
+	"bib_lista.h"
+	<cstdlib>
+
+1558723765 d:\code blocks\программироание и структуры данных\занятия\banki\bib_iban.h
+	<iostream>
+	<string>
+
+1558549018 d:\code blocks\программироание и структуры данных\занятия\banki\bib_lista.h
+	"bib_IBAN.h"
+
+1558943624 source:d:\code blocks\программироание и структуры данных\занятия\banki\bib_lista.cpp
+	<iostream>
+	<string>
+	"bib_IBAN.h"
+	"bib_lista.h"
+	<cstdlib>
+
+1560684225 source:d:\code blocks\программироание и структуры данных\занятия\banki\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"bib_IBAN.h"
+	"bib_lista.h"
+	<cstdlib>
+
+1558939158 source:d:\УЧЁБА\программироание и структуры данных\занятия\banki\bib_iban.cpp
+	<iostream>
+	<string>
+	"bib_IBAN.h"
+	"bib_lista.h"
+	<cstdlib>
+
+1558720165 d:\УЧЁБА\программироание и структуры данных\занятия\banki\bib_iban.h
+	<iostream>
+	<string>
+
+1558545418 d:\УЧЁБА\программироание и структуры данных\занятия\banki\bib_lista.h
+	"bib_IBAN.h"
+
+1558940024 source:d:\УЧЁБА\программироание и структуры данных\занятия\banki\bib_lista.cpp
+	<iostream>
+	<string>
+	"bib_IBAN.h"
+	"bib_lista.h"
+	<cstdlib>
+

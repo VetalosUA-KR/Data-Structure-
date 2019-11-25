@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1557747910 source:c:\users\student\desktop\fily\zadanie\student.cpp
+	<iostream>
+	"student.h"
+	<fstream>
+
+1557747925 c:\users\student\desktop\fily\zadanie\student.h
+	<string>
+
+1558338725 source:d:\code blocks\программироание и структуры данных\занятия\fajly\zadanie\student.cpp
+	<iostream>
+	"student.h"
+	<fstream>
+	<sstream>
+
+1558338794 d:\code blocks\программироание и структуры данных\занятия\fajly\zadanie\student.h
+	<string>
+
+1558337929 source:d:\code blocks\программироание и структуры данных\занятия\fajly\zadanie\main.cpp
+	<iostream>
+	"student.h"
+

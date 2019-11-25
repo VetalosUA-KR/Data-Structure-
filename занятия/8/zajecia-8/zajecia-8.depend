@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1554721505 source:c:\users\student\desktop\8\zajecia-8\main.cpp
+	<iostream>
+	"spis_tow.h"
+
+1554720261 source:c:\users\student\desktop\8\zajecia-8\towa.cpp
+	"towa.h"
+
+1554721301 c:\users\student\desktop\8\zajecia-8\towa.h
+
+1554720931 source:c:\users\student\desktop\8\zajecia-8\spis_tow.cpp
+	"spis_tow.h"
+	<iostream>
+
+1554720652 c:\users\student\desktop\8\zajecia-8\spis_tow.h
+	"towa.h"
+
+1554736168 source:d:\code blocks\программироание и структуры данных\занятия\8\zajecia-8\main.cpp
+	<iostream>
+	"spis_towar.h"
+
+1554694608 d:\code blocks\программироание и структуры данных\занятия\8\zajecia-8\spis_tow.h
+	"towa.h"
+
+1554694608 d:\code blocks\программироание и структуры данных\занятия\8\zajecia-8\towa.h
+
+1554732772 source:d:\code blocks\программироание и структуры данных\занятия\8\zajecia-8\towar.cpp
+	"towar.h"
+	<iostream>
+
+1554735409 d:\code blocks\программироание и структуры данных\занятия\8\zajecia-8\towar.h
+
+1554736136 source:d:\code blocks\программироание и структуры данных\занятия\8\zajecia-8\spis_towar.cpp
+	"spis_towar.h"
+	<iostream>
+
+1554735703 d:\code blocks\программироание и структуры данных\занятия\8\zajecia-8\spis_towar.h
+	"towar.h"
+

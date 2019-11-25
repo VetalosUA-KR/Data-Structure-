@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1553516780 source:c:\users\student\desktop\processy\main\main.cpp
+	<iostream>
+	"process.h"
+	"list_proces.h"
+
+1553515865 source:c:\users\student\desktop\processy\main\process.cpp
+	<iostream>
+	"process.h"
+
+1553516648 c:\users\student\desktop\processy\main\process.h
+
+1553516933 source:c:\users\student\desktop\processy\main\list_proces.cpp
+	<iostream>
+	"list_proces.h"
+
+1553517029 c:\users\student\desktop\processy\main\list_proces.h
+	"process.h"
+
+1554067652 source:d:\code blocks\программироание и структуры данных\занятия\zajencie-6\processy\main\list_proces.cpp
+	<iostream>
+	"list_proces.h"
+
+1554062683 d:\code blocks\программироание и структуры данных\занятия\zajencie-6\processy\main\list_proces.h
+	"process.h"
+
+1553492922 d:\code blocks\программироание и структуры данных\занятия\zajencie-6\processy\main\process.h
+
+1554067544 source:d:\code blocks\программироание и структуры данных\занятия\zajencie-6\processy\main\main.cpp
+	<iostream>
+	"process.h"
+	"list_proces.h"
+
+1553492922 source:d:\code blocks\программироание и структуры данных\занятия\zajencie-6\processy\main\process.cpp
+	<iostream>
+	"process.h"
+

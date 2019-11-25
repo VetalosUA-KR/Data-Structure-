@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557128762 source:d:\code blocks\программироание и структуры данных\колоквиум\zestaw2\lista_laczona.cpp
+	<iostream>
+	"lista_laczona.h"
+
+1557063562 d:\code blocks\программироание и структуры данных\колоквиум\zestaw2\lista_laczona.h
+
+1557128854 source:d:\code blocks\программироание и структуры данных\колоквиум\zestaw2\main.cpp
+	<iostream>
+	"lista_laczona.h"
+

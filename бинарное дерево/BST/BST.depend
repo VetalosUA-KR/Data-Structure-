@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1557953025 source:d:\code blocks\программироание и структуры данных\двунаправленный список\bst\main.cpp
+	<iostream>
+	"binary_tree.h"
+
+1557950779 d:\code blocks\программироание и структуры данных\двунаправленный список\bst\binary_tree.h
+
+1557953291 source:d:\code blocks\программироание и структуры данных\двунаправленный список\bst\binary_tree.cpp
+	<iostream>
+	"binary_tree.h"
+	<queue>
+
+1558366468 source:d:\code blocks\программироание и структуры данных\бинарное дерево\bst\binary_tree.cpp
+	<iostream>
+	"binary_tree.h"
+	"kolejka.h"
+
+1558346710 d:\code blocks\программироание и структуры данных\бинарное дерево\bst\binary_tree.h
+
+1558351040 source:d:\code blocks\программироание и структуры данных\бинарное дерево\bst\main.cpp
+	<iostream>
+	"binary_tree.h"
+
+1558347598 d:\code blocks\программироание и структуры данных\бинарное дерево\bst\kolejka.h
+
+1558350888 source:d:\code blocks\программироание и структуры данных\бинарное дерево\bst\kolejka.cpp
+	<iostream>
+	"kolejka.h"
+

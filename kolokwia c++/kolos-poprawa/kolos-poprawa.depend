@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1497433872 source:c:\users\as\desktop\zajecia\programowanie\nowy folder (2)\kolos-poprawa\main.cpp
+	"sznur.h"
+	<iostream>
+
+1497433415 c:\users\as\desktop\zajecia\programowanie\nowy folder (2)\kolos-poprawa\sznur.h
+	<iostream>
+
+1497436437 source:c:\users\as\desktop\zajecia\programowanie\nowy folder (2)\kolos-poprawa\sznur.cpp
+	"sznur.h"
+	<iostream>
+	<stdexcept>
+

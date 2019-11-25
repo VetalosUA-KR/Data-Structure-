@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1552912663 source:c:\users\student\desktop\stos\main\main.cpp
+	<iostream>
+	"Stos.h"
+
+1552912656 source:c:\users\student\desktop\stos\main\stos.cpp
+	"Stos.h"
+	<iostream>
+
+1552912012 c:\users\student\desktop\stos\main\stos.h
+	<iostream>
+
+1553502290 source:d:\code blocks\программироание и структуры данных\занятия\stos\main\main.cpp
+	<iostream>
+	"Stos.h"
+
+1553198852 d:\code blocks\программироание и структуры данных\занятия\stos\main\stos.h
+	<iostream>
+
+1553889365 source:d:\code blocks\программироание и структуры данных\занятия\stos\main\stos.cpp
+	"Stos.h"
+	<iostream>
+

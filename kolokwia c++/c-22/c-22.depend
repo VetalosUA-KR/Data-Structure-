@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1494364208 source:c:\users\as\desktop\nowy folder (2)\c-22\main.cpp
+	<iostream>
+	"sznur.h"
+
+1494364238 c:\users\as\desktop\nowy folder (2)\c-22\sznur.h
+	<iostream>
+
+1494514712 source:c:\users\as\desktop\nowy folder (2)\c-22\sznur.cpp
+	"sznur.h"
+	<iostream>
+	<stdexcept>
+
+1494364208 source:c:\users\as\desktop\zajecia\programowanie\nowy folder (2)\c-22\main.cpp
+	<iostream>
+	"sznur.h"
+
+1494364238 c:\users\as\desktop\zajecia\programowanie\nowy folder (2)\c-22\sznur.h
+	<iostream>
+
+1494514712 source:c:\users\as\desktop\zajecia\programowanie\nowy folder (2)\c-22\sznur.cpp
+	"sznur.h"
+	<iostream>
+	<stdexcept>
+
+1494364208 source:c:\users\lenovo\desktop\kolokwia c++\c-22\main.cpp
+	<iostream>
+	"sznur.h"
+
+1494364238 c:\users\lenovo\desktop\kolokwia c++\c-22\sznur.h
+	<iostream>
+
+1494514712 source:c:\users\lenovo\desktop\kolokwia c++\c-22\sznur.cpp
+	"sznur.h"
+	<iostream>
+	<stdexcept>
+

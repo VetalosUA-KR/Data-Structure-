@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1552307731 source:c:\users\student\desktop\4\main\main.cpp
+	<iostream>
+	"kolejka.h"
+
+1552307969 c:\users\student\desktop\4\main\kolejka.h
+
+1552307992 source:c:\users\student\desktop\4\main\kolejka.cpp
+	<iostream>
+	"kolejka.h"
+
+1552279480 source:d:\code blocks\программироание и структуры данных\4\main\main.cpp
+	<iostream>
+	"kolejka.h"
+
+1553102541 d:\code blocks\программироание и структуры данных\4\main\kolejka.h
+

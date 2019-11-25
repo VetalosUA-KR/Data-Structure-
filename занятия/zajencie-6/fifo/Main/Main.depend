@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555255713 source:d:\code blocks\программироание и структуры данных\занятия\zajencie-6\fifo\main\main.cpp
+	<iostream>
+	"kolejka.h"
+
+1555314160 source:d:\code blocks\программироание и структуры данных\занятия\zajencie-6\fifo\main\kolejka.cpp
+	<iostream>
+	"kolejka.h"
+
+1554067903 d:\code blocks\программироание и структуры данных\занятия\zajencie-6\fifo\main\kolejka.h
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1558722472 source:d:\code blocks\программироание и структуры данных\Ёкзамен\przyklad-1\list.cpp
+	"list.h"
+
+1560701824 d:\code blocks\программироание и структуры данных\Ёкзамен\przyklad-1\list.h
+	<stdexcept>
+	<iostream>
+
+1558714184 source:d:\code blocks\программироание и структуры данных\Ёкзамен\przyklad-1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"list.h"
+	"student.h"
+
+1558722735 d:\code blocks\программироание и структуры данных\Ёкзамен\przyklad-1\student.h
+	<string>
+
+1560700384 source:d:\code blocks\программироание и структуры данных\Ёкзамен\przyklad-1\student.cpp
+	"student.h"
+	<sstream>
+	<string>
+	<iostream>
+

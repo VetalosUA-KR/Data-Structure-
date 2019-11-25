@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556979974 source:d:\code blocks\программироание и структуры данных\колоквиум\zestawc-21\main.cpp
+	<iostream>
+	"lista-lacona.h"
+
+1556978290 d:\code blocks\программироание и структуры данных\колоквиум\zestawc-21\lista-lacona.h
+
+1556979415 source:d:\code blocks\программироание и структуры данных\колоквиум\zestawc-21\lista-lacona.cpp
+	"lista-lacona.h"
+	<iostream>
+

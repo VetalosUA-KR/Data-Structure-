@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1557590372 source:d:\code blocks\программироание и структуры данных\двунаправленный список\zestawc-24\main.cpp
+	<iostream>
+	"lista_laczina.h"
+
+1557589037 d:\code blocks\программироание и структуры данных\двунаправленный список\zestawc-24\lista_laczina.h
+
+1557590318 source:d:\code blocks\программироание и структуры данных\двунаправленный список\zestawc-24\lista_laczina.cpp
+	<iostream>
+	"lista_laczina.h"
+
+1558384510 source:d:\code blocks\программироание и структуры данных\колоквиум\zestawc-24\lista_laczina.cpp
+	<iostream>
+	"lista_laczina.h"
+
+1558208207 d:\code blocks\программироание и структуры данных\колоквиум\zestawc-24\lista_laczina.h
+
+1558384615 source:d:\code blocks\программироание и структуры данных\колоквиум\zestawc-24\main.cpp
+	<iostream>
+	"lista_laczina.h"
+
